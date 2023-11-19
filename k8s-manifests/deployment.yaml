@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: 389029577690.dkr.ecr.us-east-1.amazonaws.com/jjtech-demo:replaceImageTag
+        image: 0347-6726-0982.dkr.ecr.us-east-2.amazonaws.com/jjtech-demo1:replaceImageTag
         ports:
         - containerPort: 8080
